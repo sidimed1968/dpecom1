@@ -7,8 +7,8 @@ export default defineConfig(({ mode }) => {
     return {
       server: {
         port: 3000,
-        host: '0.0.0.0',
-        dpecom1-1bd7.onrender.com
+        host: 'dpecom1-1bd7.onrender.com',
+        
       },
       plugins: [react()],
       define: {
